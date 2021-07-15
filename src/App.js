@@ -16,6 +16,7 @@ function App() {
 
 	return (
 		<div className='App'>
+			<h1>Bienvenu Faraja</h1>
 			{studentsData ? (
 				<div className='studentList'>
 					<input
